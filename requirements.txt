@@ -11,3 +11,6 @@ seaborn>=0.13.2
 statsmodels>=0.14.5
 streamlit>=1.49.1
 requests>=2.31.0
+matplotlib==3.10.6
+contourpy>=1.0.1
+cycler>=0.10
